@@ -20,33 +20,32 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 
 <h3 align="left">
-  <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" width="25" alt="Socials Icon" />
+  <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" width="22" alt="Socials Icon" />
   FOLLOW ME ON SOCIALS:
 </h3>
 
-<hr>
-
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://medium.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" width="32" height="32" alt="Medium" />
+    <img src="https://cdn.simpleicons.org/medium/000000" width="28" height="28" alt="Medium" />
   </a>
   &nbsp;
   <a href="https://x.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.quora.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/quora/B92B27" width="32" height="32" alt="Quora" />
+    <img src="https://cdn.simpleicons.org/quora/B92B27" width="28" height="28" alt="Quora" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook" />
   </a>
 </p>
+
 
 ## <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" width="30" alt="Technology Stack Icon" /> TECHNOLOGY STACK:
 
