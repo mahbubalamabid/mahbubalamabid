@@ -20,8 +20,6 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 ## 🛠️ Skill Set
 
-## Skills
-
 ### Programming Languages
 
 <table>
