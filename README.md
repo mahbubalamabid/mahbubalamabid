@@ -24,7 +24,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
   FOLLOW ME ON SOCIALS:
 </h3>
 
-
+<hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahbub-alam-abid-12a849421/"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn"></a>&nbsp;
 <a href="https://medium.com/@mahbubalamabid"><img src="https://cdn.simpleicons.org/medium/000000" width="28" height="28" alt="Medium"></a>&nbsp;
