@@ -2,7 +2,7 @@ Hi, I'm Mahbub Alam Abid 👋
 
 ### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast
 
-<hr style="height: 0px; border: 0; background-color: #d8dee4;">
+<hr style="height: 0.3px; border: 0; background-color: #d8dee4;">
 
 I'm a Computer Science & Engineering student passionate about building modern, responsive, and user-friendly web applications.
 
