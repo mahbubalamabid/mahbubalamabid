@@ -3,11 +3,23 @@
     src="./github_banner_15px_rounded.png"
     alt="Mahbub Alam Abid - Full Stack Web Developer"
     width="100%"
-    style="border-radius: 15px;"
   />
 </p>
 
-Hi, I'm Mahbub Alam Abid 👋
+<div align="center">
+
+<div align="center">
+  <strong style="font-size: 32px;">
+    Assalamualaikum
+  </strong>
+</div>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=4998&amp;pause=1000&amp;width=435&amp;center=true&amp;vCenter=true&amp;lines=I'm+Mahbub+Alam+Abid;Full+Stack+Web+Engineer;Skilled+in+JavaScript;Love+building+projects"
+  alt="Typing SVG"
+/>
+
+</div>
 
 ### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast
 
