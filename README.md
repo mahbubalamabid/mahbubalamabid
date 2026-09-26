@@ -25,25 +25,11 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/medium/000000" width="28" height="28" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://www.quora.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/quora/B92B27" width="28" height="28" alt="Quora" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook" />
-  </a>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" /></a>&nbsp;
+<a href="https://medium.com/" target="_blank"><img src="https://cdn.simpleicons.org/medium/000000" width="28" height="28" alt="Medium" /></a>&nbsp;
+<a href="https://x.com/" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X" /></a>&nbsp;
+<a href="https://www.quora.com/" target="_blank"><img src="https://cdn.simpleicons.org/quora/B92B27" width="28" height="28" alt="Quora" /></a>&nbsp;
+<a href="https://www.facebook.com/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook" /></a>
 </p>
 
 
