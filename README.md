@@ -1,8 +1,6 @@
 Hi, I'm Mahbub Alam Abid 👋
 
-<h3>
-  ### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast
-</h3>
+<h3>### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast</h3>
 
 
 
