@@ -22,67 +22,47 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 ### Programming Languages
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=javascript" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=typescript" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=go" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=c" width="50"></td>
-  </tr>
-</table>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Libraries and Frameworks
+### Web Technologies
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=keras" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=opencv" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" width="50"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=flask" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=django" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=graphql" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=selenium" width="50"></td>
-  </tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Infrastructure
+### Libraries & Frameworks
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=aws" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=heroku" width="50"></td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-### Databases
+### Database
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=elasticsearch" width="50"></td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### Platforms & Deployment
 
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=ubuntu" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=bash" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=git" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=jupyter" width="50"></td>
-  </tr>
-</table>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
+### Development Tools
+
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### Other Tools
+
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ---
 
 ## 🚀 What I'm Interested In
