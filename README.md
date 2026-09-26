@@ -21,46 +21,98 @@
 
 </div>
 
-### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast
+<h3>
+  <img
+    src="https://images.rawpixel.com/dark_image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA4L3NyLWltYWdlLTI2MDcyNS1zaS0xMi1zLTE3NDIucG5n.png"
+    width="28"
+    align="middle"
+    alt="About Me"
+  />
+  About Me
+</h3>
 
-I'm a Computer Science & Engineering student passionate about building modern, responsive, and user-friendly web applications.
+<ul>
+ <li>
+  <img
+    src="https://media1.giphy.com/media/uKmJIhPvOCC8Nx3KmF/giphy.gif"
+    width="20"
+    align="middle"
+    alt="Hello"
+  />
+  &nbsp;Hi, I'm <strong><a href="https://github.com/mahbubalamabid">@mahbubalamabid</a></strong>
+</li>
 
-Currently, I'm focusing on Full Stack Web Development and continuously improving my skills by building projects and learning new technologies.
-Hi, I'm Mahbub Alam Abid 👋
+  <li>
+    <img
+      src="https://i.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Developer"
+    />
+    &nbsp;I'm a <strong>Full Stack Web Engineer</strong> passionate about building modern web applications.
+  </li>
 
-<h2>💻 CSE Student | Full Stack Web Developer | Tech Enthusiasts</h2>
+  <li>
+    <img
+      src="https://i.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Coding"
+    />
+    &nbsp;Working with <strong>React, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, and Prisma</strong>.
+  </li>
 
+  <li>
+    <img
+      src="https://i.giphy.com/media/gKzXev0qmNShQShEsA/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Learning"
+    />
+    &nbsp;Currently learning <strong>React Native, GraphQL, Docker, AWS, and advanced TypeScript</strong>.
+  </li>
 
+  <li>
+    <img
+      src="https://i.giphy.com/media/rDH8nmY9deHhyQ8niT/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Chat"
+    />
+    &nbsp;Ask me about <strong>JavaScript, React, Next.js, TypeScript, and Web Development</strong>.
+  </li>
 
-I'm a Computer Science & Engineering student passionate about building modern, responsive, and user-friendly web applications.
+  <li>
+    <img
+      src="https://i.giphy.com/media/PPG0driJ3lSOwty9KF/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Projects"
+    />
+    &nbsp;I enjoy building <strong>scalable, responsive, and user-friendly applications</strong>.
+  </li>
 
-Currently, I'm focusing on Full Stack Web Development and continuously improving my skills by building projects and learning new technologies.
+  <li>
+    <img
+      src="https://i.giphy.com/media/gPo5FgHOzLDtKHZ3si/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Writing"
+    />
+    &nbsp;Currently improving my skills through <strong>real-world projects and continuous learning</strong>.
+  </li>
 
-<br>
-
-## 🔭 What I'm Currently Doing
-
-- 🔭 Working on Full Stack Web Development
-- 🤝 Looking to collaborate on Web Development projects
-- 🌱 Currently learning React, Next.js & TypeScript
-- 💬 Ask me about JavaScript, React & Web Development
-- ⚡ Always learning something new
-
-<br>
-
-
-<h2 align="left">
-  <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" width="22" alt="Socials Icon" />
-  FOLLOW ME ON SOCIALS:
-</h2>
-
-<p align="left">
-&nbsp<a href="https://www.linkedin.com/in/mahbub-alam-abid-12a849421/"><img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn"></a>&nbsp&nbsp&nbsp;
-<a href="https://medium.com/@mahbubalamabid"><img src="https://cdn.simpleicons.org/medium/000000" width="28" height="28" alt="Medium"></a>&nbsp&nbsp&nbsp;
-<a href="https://x.com/SawfaAsbir"><img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X"></a>&nbsp&nbsp&nbsp;
-<a href="https://www.quora.com/profile/Mahbub-Alam-784"><img src="https://cdn.simpleicons.org/quora/B92B27" width="28" height="28" alt="Quora"></a>&nbsp&nbsp&nbsp;
-<a href="https://www.facebook.com/mahabubalam.abid.1/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="28" height="28" alt="Facebook"></a>
-</p>
+  <li>
+    <img
+      src="https://i.giphy.com/media/JQjefnj1rGnLC0Y59G/giphy.gif"
+      width="20"
+      align="middle"
+      alt="Email"
+    />
+    &nbsp;Feel free to reach me at
+    <a href="mailto:sawfaasbir.abid@gmail.com"><strong>Email</strong></a>.
+  </li>
+</ul>
 
 
 ## <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" width="30" alt="Technology Stack Icon" /> TECHNOLOGY STACK:
