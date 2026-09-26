@@ -18,25 +18,70 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 ---
 
-## 🛠️ Skill Set 💪
-
-These are some of the technologies and tools that I use or am currently learning.
+## 🛠️ Skill Set
 
 ### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,java,python,typescript&theme=light)](https://skillicons.dev)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=javascript" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=typescript" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=go" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=c" width="50"></td>
+  </tr>
+</table>
 
-### Libraries & Frameworks
+### Libraries and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,daisyui&theme=light)](https://skillicons.dev)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=keras" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=opencv" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="50"></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=flask" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=django" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=selenium" width="50"></td>
+  </tr>
+</table>
+
+### Infrastructure
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetes" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=heroku" width="50"></td>
+  </tr>
+</table>
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mysql" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=elasticsearch" width="50"></td>
+  </tr>
+</table>
 
-### Tools & Platforms
+### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,vercel,netlify,vscode,windows&theme=light)](https://skillicons.dev)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=ubuntu" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=bash" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=git" width="50"></td>
+    <td><img src="https://skillicons.dev/icons?i=jupyter" width="50"></td>
+  </tr>
+</table>
 
 ---
 
