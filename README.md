@@ -38,7 +38,8 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
     </td>
-    <td align="center" width="75">
+    <tr>
+      <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
     </td>
     <td align="center" width="75">
@@ -50,6 +51,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
     </td>
+    </tr>
   </tr>
 </table>
 
