@@ -23,10 +23,10 @@
 
 <h3>
   <img
-    src="https://images.rawpixel.com/dark_image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTA4L3NyLWltYWdlLTI2MDcyNS1zaS0xMi1zLTE3NDIucG5n.png"
-    width="28"
-    align="middle"
-    alt="About Me"
+    src="https://thridy.com/i/dicons/technologist-489a464b.webp"
+    width="30"
+    align="absmiddle"
+    alt="ABOUT ME"
   />
   About Me
 </h3>
