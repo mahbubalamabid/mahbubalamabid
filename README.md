@@ -25,7 +25,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 </h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28" alt="LinkedIn" />
   </a>
   &nbsp;
