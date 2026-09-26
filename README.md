@@ -1,3 +1,19 @@
+<p align="center">
+  <img
+    src="./github_banner_15px_rounded.png"
+    alt="Mahbub Alam Abid - Full Stack Web Developer"
+    width="100%"
+    style="border-radius: 15px;"
+  />
+</p>
+
+Hi, I'm Mahbub Alam Abid 👋
+
+### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast
+
+I'm a Computer Science & Engineering student passionate about building modern, responsive, and user-friendly web applications.
+
+Currently, I'm focusing on Full Stack Web Development and continuously improving my skills by building projects and learning new technologies.
 Hi, I'm Mahbub Alam Abid 👋
 
 <h2>💻 CSE Student | Full Stack Web Developer | Tech Enthusiasts</h2>
