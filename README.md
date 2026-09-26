@@ -113,7 +113,8 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
     </td>
-    <td align="center" width="75">
+    <tr>
+      <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
     </td>
     <td align="center" width="75">
@@ -122,6 +123,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=au" width="50" alt="Adobe Audition" />
     </td>
+    </tr>
   </tr>
 
 </table>
