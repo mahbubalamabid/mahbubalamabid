@@ -18,7 +18,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 ---
 
-## 🛠️ TECHNOLOGY STACK:
+## <img src="https://camo.githubusercontent.com/63eaf29f035786ed514aa57e190cfa7a208197bbd5e6c339cc656beae86ea701/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4b47687051354e4d6f574b5175726c4877492f67697068792e77656270" width="30" alt="Technology Stack Icon" /> TECHNOLOGY STACK:
 
 ### Programming Languages
 
