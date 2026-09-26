@@ -36,7 +36,7 @@ These are some of the technologies and tools that I use or am currently learning
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,vercel,netlify,vscode,trello,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,vercel,netlify,vscode,windows&theme=light),trello](https://skillicons.dev)
 
 ---
 
