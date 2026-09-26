@@ -20,68 +20,59 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 ## 🛠️ Skill Set
 
-### Programming Languages
-
-<table>
+<h3>Programming Languages</h3>
+<table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=python" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=javascript" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=typescript" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=go" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=c" width="50"></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=c" width="46" alt="C" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=py" width="46" alt="Python" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript" /></td>
   </tr>
 </table>
 
-### Libraries and Frameworks
-
-<table>
+<h3>Libraries and Frameworks</h3>
+<table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=keras" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=opencv" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" width="50"></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=flask" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=django" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=jquery" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=graphql" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=selenium" width="50"></td>
+    <td align="center" width="58" height="58"><img src="https://skills-icons.vercel.app/api/icons?i=html" width="46" alt="HTML5" /></td>
+    <td align="center" width="58" height="58"><img src="https://skills-icons.vercel.app/api/icons?i=css" width="46" alt="CSS3" /></td>
+    <td align="center" width="58" height="58"><img src="https://skills-icons.vercel.app/api/icons?i=daisyui" width="46" alt="DaisyUI" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=nextjs" width="46" alt="Next.js" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=vite" width="46" alt="Vite" /></td>
   </tr>
 </table>
 
-### Infrastructure
-
-<table>
+<h3>Infrastructure</h3>
+<table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=aws" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=heroku" width="50"></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=vercel" width="46" alt="Vercel" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=netlify" width="46" alt="Netlify" /></td>
   </tr>
 </table>
 
-### Databases
-
-<table>
+<h3>Databases</h3>
+<table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=elasticsearch" width="50"></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=mysql" width="46" alt="MySQL" /></td>
   </tr>
 </table>
 
-### Tools
-
-<table>
+<h3>Tools</h3>
+<table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=ubuntu" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=bash" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=git" width="50"></td>
-    <td><img src="https://skillicons.dev/icons?i=jupyter" width="50"></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=terminal" width="46" alt="Windows Terminal" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=au" width="46" alt="Adobe Audition" /></td>
+    <td align="center" width="58" height="58"><img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" width="46" alt="Adobe Acrobat Reader" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=figma" width="46" alt="Figma" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=notion" width="46" alt="Notion" /></td>
+    <td align="center" width="58" height="58"><img src="https://cdn.simpleicons.org/trello/0052CC" width="46" alt="Trello" /></td>
   </tr>
 </table>
+
 
 ---
 
