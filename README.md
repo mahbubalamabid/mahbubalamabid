@@ -116,8 +116,8 @@
 <br>
 <h3>
   <img
-    src="https://thridy.com/i/dicons/share.webp"
-    width="26"
+    src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp"
+    width="29"
     alt="Socials"
   />
   &nbsp;FOLLOW ME ON SOCIALS:
