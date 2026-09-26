@@ -25,8 +25,8 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
   <tr>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=c" width="46" alt="C" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=py" width="46" alt="Python" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript" /></td>
   </tr>
@@ -35,9 +35,9 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 <h3>Libraries and Frameworks</h3>
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skills-icons.vercel.app/api/icons?i=html" width="46" alt="HTML5" /></td>
-    <td align="center" width="58" height="58"><img src="https://skills-icons.vercel.app/api/icons?i=css" width="46" alt="CSS3" /></td>
-    <td align="center" width="58" height="58"><img src="https://skills-icons.vercel.app/api/icons?i=daisyui" width="46" alt="DaisyUI" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=css" width="46" alt="CSS3" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=html" width="46" alt="HTML5" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=tailwind" width="46" alt="DaisyUI" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=nextjs" width="46" alt="Next.js" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=vite" width="46" alt="Vite" /></td>
@@ -47,6 +47,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 <h3>Infrastructure</h3>
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=powershell" width="46" alt="Windows Terminal" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=vercel" width="46" alt="Vercel" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=netlify" width="46" alt="Netlify" /></td>
   </tr>
@@ -62,9 +63,8 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 <h3>Tools</h3>
 <table border="1" cellspacing="0" cellpadding="4">
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=terminal" width="46" alt="Windows Terminal" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=au" width="46" alt="Adobe Audition" /></td>
-    <td align="center" width="58" height="58"><img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat" width="46" alt="Adobe Acrobat Reader" /></td>
+    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=ai" width="46" alt="Adobe Acrobat Reader" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=figma" width="46" alt="Figma" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /></td>
     <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub" /></td>
@@ -72,6 +72,7 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
     <td align="center" width="58" height="58"><img src="https://cdn.simpleicons.org/trello/0052CC" width="46" alt="Trello" /></td>
   </tr>
 </table>
+
 
 
 ---
