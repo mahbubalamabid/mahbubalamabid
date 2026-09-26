@@ -100,6 +100,9 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 <table>
   <tr>
     <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="Vs Code" />
+    </td>
+    <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows Terminal" />
     </td>
     <td align="center" width="75">
