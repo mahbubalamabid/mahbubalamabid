@@ -1,4 +1,4 @@
-<img width="278" height="61" alt="image" src="https://github.com/user-attachments/assets/253387b5-d7b3-47fa-b669-7fedb9b356d4" /># Hi, I'm Mahbub Alam Abid 👋
+Hi, I'm Mahbub Alam Abid 👋
 
 ### 💻 CSE Student | Full Stack Web Developer | Tech Enthusiast
 
