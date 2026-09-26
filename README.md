@@ -20,59 +20,108 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
 
 ## 🛠️ Skill Set
 
-<h3>Programming Languages</h3>
-<table border="1" cellspacing="0" cellpadding="4">
+## Skills
+
+### Programming Languages
+
+<table>
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=c" width="46" alt="C" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=js" width="46" alt="JavaScript" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=java" width="46" alt="Java" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=py" width="46" alt="Python" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=ts" width="46" alt="TypeScript" /></td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=c" width="50" alt="C" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=py" width="50" alt="Python" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript" />
+    </td>
   </tr>
 </table>
 
-<h3>Libraries and Frameworks</h3>
-<table border="1" cellspacing="0" cellpadding="4">
+### Libraries and Frameworks
+
+<table>
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=css" width="46" alt="CSS3" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=html" width="46" alt="HTML5" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=tailwind" width="46" alt="DaisyUI" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=nextjs" width="46" alt="Next.js" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=react" width="46" alt="React" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=vite" width="46" alt="Vite" /></td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=daisyui" width="50" alt="DaisyUI" />
+    </td>
   </tr>
 </table>
 
-<h3>Infrastructure</h3>
-<table border="1" cellspacing="0" cellpadding="4">
+### Infrastructure
+
+<table>
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=powershell" width="46" alt="Windows Terminal" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=vercel" width="46" alt="Vercel" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=netlify" width="46" alt="Netlify" /></td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify" />
+    </td>
   </tr>
 </table>
 
-<h3>Databases</h3>
-<table border="1" cellspacing="0" cellpadding="4">
+### Databases
+
+<table>
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=mysql" width="46" alt="MySQL" /></td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL" />
+    </td>
   </tr>
 </table>
 
-<h3>Tools</h3>
-<table border="1" cellspacing="0" cellpadding="4">
+### Tools
+
+<table>
   <tr>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=au" width="46" alt="Adobe Audition" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=ai" width="46" alt="Adobe Acrobat Reader" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=figma" width="46" alt="Figma" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub" /></td>
-    <td align="center" width="58" height="58"><img src="https://skillicons.dev/icons?i=notion" width="46" alt="Notion" /></td>
-    <td align="center" width="58" height="58"><img src="https://cdn.simpleicons.org/trello/0052CC" width="46" alt="Trello" /></td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=windows" width="50" alt="Windows Terminal" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+    </td>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=au" width="50" alt="Adobe Audition" />
+    </td>
   </tr>
 </table>
-
 
 
 ---
