@@ -114,13 +114,11 @@ Currently, I'm focusing on Full Stack Web Development and continuously improving
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion" />
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=au" width="50" alt="Adobe Audition" />
     </td>
   </tr>
+
 </table>
 
 
