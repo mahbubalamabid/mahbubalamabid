@@ -32,85 +32,86 @@
 </h3>
 
 <ul>
- <li>
-  <img
-    src="https://media1.giphy.com/media/uKmJIhPvOCC8Nx3KmF/giphy.gif"
-    width="20"
-    align="middle"
-    alt="Hello"
-  />
-  &nbsp;Hi, I'm <strong><a href="https://github.com/mahbubalamabid">@mahbubalamabid</a></strong>
-</li>
+  <li>
+    <img
+      src="https://thridy.com/i/dicons/engineer-56b8fbee.webp"
+      width="24"
+      align="absmiddle"
+      alt="Engineer"
+    />
+    &nbsp;Hi, I'm
+    <a href="https://github.com/mahbubalamabid">@mahbubalamabid</a>.
+  </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif"
-      width="20"
-      align="middle"
-      alt="Developer"
+      src="https://thridy.com/i/dicons/laptop-17ff633c.webp"
+      width="24"
+      align="absmiddle"
+      alt="Full Stack Development"
     />
     &nbsp;I'm a <strong>Full Stack Web Engineer</strong> passionate about building modern web applications.
   </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"
-      width="20"
-      align="middle"
-      alt="Coding"
+      src="https://thridy.com/i/dicons/dashboard-65ca6579.webp"
+      width="24"
+      align="absmiddle"
+      alt="Technology Stack"
     />
-    &nbsp;Working with <strong>React, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, and Prisma</strong>.
+    &nbsp;Working with <strong>React, Next.js, TypeScript, Node.js, Express.js, MongoDB, PostgreSQL, and Prisma.</strong>
   </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/gKzXev0qmNShQShEsA/giphy.gif"
-      width="20"
-      align="middle"
+      src="https://thridy.com/i/dicons/blue-book-a42150d7.webp"
+      width="24"
+      align="absmiddle"
       alt="Learning"
     />
-    &nbsp;Currently learning <strong>React Native, GraphQL, Docker, AWS, and advanced TypeScript</strong>.
+    &nbsp;Currently learning <strong>React Native, GraphQL, Docker, AWS, and advanced TypeScript.</strong>
   </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/rDH8nmY9deHhyQ8niT/giphy.gif"
-      width="20"
-      align="middle"
-      alt="Chat"
+      src="https://thridy.com/i/dicons/chat-cd64bb2b.webp"
+      width="24"
+      align="absmiddle"
+      alt="Ask Me"
     />
-    &nbsp;Ask me about <strong>JavaScript, React, Next.js, TypeScript, and Web Development</strong>.
+    &nbsp;Ask me about <strong>JavaScript, React, Next.js, TypeScript, and Web Development.</strong>
   </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/PPG0driJ3lSOwty9KF/giphy.gif"
-      width="20"
-      align="middle"
-      alt="Projects"
+      src="https://thridy.com/i/dicons/handshake-f0c7f643.webp"
+      width="24"
+      align="absmiddle"
+      alt="Building Applications"
     />
-    &nbsp;I enjoy building <strong>scalable, responsive, and user-friendly applications</strong>.
+    &nbsp;I enjoy building <strong>scalable, responsive, and user-friendly applications.</strong>
   </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/gPo5FgHOzLDtKHZ3si/giphy.gif"
-      width="20"
-      align="middle"
-      alt="Writing"
+      src="https://thridy.com/i/dicons/growth-chart-6f68f0d9.webp"
+      width="24"
+      align="absmiddle"
+      alt="Continuous Learning"
     />
-    &nbsp;Currently improving my skills through <strong>real-world projects and continuous learning</strong>.
+    &nbsp;Currently improving my skills through <strong>real-world projects and continuous learning.</strong>
   </li>
 
   <li>
     <img
-      src="https://i.giphy.com/media/JQjefnj1rGnLC0Y59G/giphy.gif"
-      width="20"
-      align="middle"
+      src="https://thridy.com/i/dicons/mail-8d0d861f.webp"
+      width="24"
+      align="absmiddle"
       alt="Email"
     />
     &nbsp;Feel free to reach me at
-    <a href="mailto:sawfaasbir.abid@gmail.com"><strong>Email</strong></a>.
+    <a href="mailto:sawfaasbir.abid@gmail.com">Email</a>.
   </li>
 </ul>
 <br>
