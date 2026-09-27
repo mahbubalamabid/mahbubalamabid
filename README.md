@@ -246,14 +246,29 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mahbubalamabid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mahbubalamabid&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahbubalamabid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>
+  📊 GitHub Stats:
+</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=mahbubalamabid&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da&amp;border_color=d0d7de&amp;border_radius=10"
+    alt="Mahbub Alam Abid GitHub Stats"
+    height="180"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://streak-stats.demolab.com/?user=mahbubalamabid&amp;background=ffffff&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=8250df&amp;currStreakNum=0969da&amp;sideNums=0969da&amp;currStreakLabel=8250df&amp;sideLabels=24292f&amp;dates=57606a&amp;border_radius=10"
+    alt="Mahbub Alam Abid GitHub Streak"
+    height="180"
+  />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahbubalamabid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahbubalamabid&amp;layout=compact&amp;langs_count=8&amp;bg_color=ffffff&amp;title_color=0969da&amp;text_color=24292f&amp;icon_color=0969da&amp;border_color=d0d7de&amp;border_radius=10"
+    alt="Mahbub Alam Abid Most Used Languages"
+    height="180"
+  />
+</p>
 
