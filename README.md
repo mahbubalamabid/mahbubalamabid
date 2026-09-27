@@ -143,23 +143,23 @@
 <table>
   <tr>
     <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=c" width="50" alt="C" />
-    </td>
-    <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
     </td>
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS3" />
     </td>
     <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML5" />
-    </td>
-    <tr>
-      <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=c" width="50" alt="C" />
     </td>
     <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" />
+    <tr>
+    <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" />
+    </td>
+    </td>
+      <td align="center" width="75">
+      <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript" />
     </td>
     <td align="center" width="75">
       <img src="https://skillicons.dev/icons?i=py" width="50" alt="Python" />
@@ -185,7 +185,7 @@
       <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite" />
     </td>
     <td align="center" width="75">
-      <img src="https://skillicons.dev/icons?i=daisyui" width="50" alt="DaisyUI" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="DaisyUI" />
     </td>
   </tr>
 </table>
