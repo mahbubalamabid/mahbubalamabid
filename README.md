@@ -245,17 +245,13 @@
 </table>
 
 
----
 
-## 📚 Currently Learning
+<h3>GITHUB CONTRIBUTIONS:</h3>
 
-```text
-HTML → CSS → JavaScript → TypeScript
-                    ↓
-                  React
-                    ↓
-                 Next.js
-                    ↓
-          Full Stack Development
-                    ↓
-                AI / ML
+<p align="center">
+  <a href="https://github.com/mahbubalamabid">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbubalamabid&amp;theme=github-compact&amp;hide_border=true"
+         alt="Mahbub Alam Abid GitHub Activity Graph"
+         width="100%" />
+  </a>
+</p>
