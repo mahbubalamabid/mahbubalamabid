@@ -255,3 +255,34 @@
          width="100%" />
   </a>
 </p>
+
+
+<h2>
+  📊 GitHub Stats:
+</h2>
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=mahbubalamabid&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Mahbub Alam Abid GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.demolab.com/?user=mahbubalamabid&theme=dark&hide_border=false"
+        alt="Mahbub Alam Abid GitHub Streak"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubalamabid&layout=compact&theme=dark&hide_border=false&langs_count=8"
+        alt="Mahbub Alam Abid Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
