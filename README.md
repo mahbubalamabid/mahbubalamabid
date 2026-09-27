@@ -274,36 +274,3 @@
 </p>
 
 
-<h3>〈/〉 &nbsp; RANDOM DEV QUOTE:</h3>
-
-<table width="330" cellpadding="18" cellspacing="0">
-<tr>
-<td align="center">
-
-<p>
-  <font color="#4F6DFF" size="6">❝</font>
-</p>
-
-<p>
-  <strong>
-    For all its power, the computer is a harsh taskmaster.
-    Its programs must be correct, and what we wish to say must
-    be said accurately in every detail.
-  </strong>
-</p>
-
-<p>
-  <font color="#4F6DFF" size="6">❞</font>
-</p>
-
-<p>
-  <i>
-    <font color="#8250DF">
-      — Alan Perlis
-    </font>
-  </i>
-</p>
-
-</td>
-</tr>
-</table>
