@@ -246,43 +246,14 @@
 
 
 
-<h3>GITHUB CONTRIBUTIONS:</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahbubalamabid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mahbubalamabid&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahbubalamabid&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <a href="https://github.com/mahbubalamabid">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbubalamabid&amp;theme=github-compact&amp;hide_border=true"
-         alt="Mahbub Alam Abid GitHub Activity Graph"
-         width="100%" />
-  </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mahbubalamabid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2>
-  📊 GitHub Stats:
-</h2>
-
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=mahbubalamabid&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Mahbub Alam Abid GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.demolab.com/?user=mahbubalamabid&theme=dark&hide_border=false"
-        alt="Mahbub Alam Abid GitHub Streak"
-      />
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbubalamabid&layout=compact&theme=dark&hide_border=false&langs_count=8"
-        alt="Mahbub Alam Abid Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
